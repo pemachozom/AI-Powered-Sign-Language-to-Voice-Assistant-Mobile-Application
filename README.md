@@ -15,6 +15,7 @@ focuses specifically on the **integration of trained deep learning models** into
 - Integration logic between the Flutter app and Flask backend  
 
 This complements the main mobile interface by enabling real-time AI-driven gesture-to-voice translation on the app.
+
 ---
 
 ## 📚 Module Information
