@@ -4,6 +4,19 @@ An AI-powered mobile application that converts **sign language gestures** into *
 
 ---
 
+## 🔗 Related Repository
+
+The repository  
+👉 [AI-Powered Sign Language to Voice Assistant Integration](https://github.com/pemachozom/AI-Powered-Sign-Language-to-Voice-Assistant-Integration)  
+focuses specifically on the **integration of trained deep learning models** into the mobile application. It includes:
+
+- API endpoints for gesture recognition  
+- Preprocessing pipelines for mobile input  
+- Integration logic between the Flutter app and Flask backend  
+
+This complements the main mobile interface by enabling real-time AI-driven gesture-to-voice translation on the app.
+---
+
 ## 📚 Module Information
 
 **Module:** PRJ303 – 3rd Year Project  
